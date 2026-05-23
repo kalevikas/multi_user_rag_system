@@ -1,0 +1,42 @@
+{
+  "14d523b38b86": {
+    "id": "14d523b38b86",
+    "title": "Tell me job description for capgemini?",
+    "created_at": "2026-05-07T01:50:50.701284",
+    "updated_at": "2026-05-07T01:54:29.108422",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tell me job description for capgemini?",
+        "sources": [],
+        "not_found": false,
+        "ts": "2026-05-07T01:51:09.945765"
+      },
+      {
+        "role": "assistant",
+        "content": "## Job Description for Capgemini\n\n### Position: Data Scientist – Generative AI & NLP Specialist\n\n- **Notice Period:** Immediate to 90 Days\n- **Grade:** B2/C1\n\n### Position Summary\nThe **Data Scientist – Generative AI & NLP Specialist** will be responsible for designing, developing, and deploying AI models and solutions that meet business needs. Candidates should have:\n- **4+ years** of hands-on Data Science experience.\n- **At least 2+ years** working in **Generative AI**.\n- Specialized expertise in **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**.\n- Project experience in NLP is essential; experience in developing AI Agents is a strong plus.\n\n### Key Responsibilities\n- Develop and implement AI models focused on NLP tasks (e.g., text classification, entity recognition, sentiment analysis, language generation).\n- Leverage deep knowledge of LLMs to design, fine-tune, and deploy solutions across various business domains.\n- Collaborate with cross-functional teams (data engineers, product managers, domain experts) to define problem statements and integrate models into production systems.\n- Stay current with advancements in Generative AI and NLP; research and evaluate new methodologies.\n- Build, test, and optimize AI agents for automated tasks and enhanced user experiences.\n- Ensure data integrity and quality throughout the model development lifecycle, including data preprocessing, feature engineering, and model validation.\n\n### Required Qualifications\n- **B.S./M.S. or Ph.D.** in Computer Science, Data Science, Statistics, Mathematics, or a related quantitative field.\n- Minimum of **4 years** of professional experience in Data Science.\n- At least **2 years** of specialized experience in Generative AI with hands-on experience in LLM architectures (e.g., GPT, BERT).\n- Strong project experience in NLP, including building and deploying NLP models in production.\n- Proficiency in **Python** and relevant libraries (TensorFlow, PyTorch, Hugging Face Transformers, Scikit-learn).\n- Experience with data management, model versioning, and workflow orchestration tools.\n- Excellent problem-solving skills and ability to work independently and collaboratively.\n\n### Preferred Qualifications\n- Hands-on experience developing **AI Agents** or autonomous systems.\n- Familiarity with cloud platforms (AWS, Google Cloud, Azure) for scalable model deployment.\n- Exposure to reinforcement learning frameworks and techniques.\n- Experience with **DevOps/MLOps** practices for robust model deployment and monitoring.\n- Ability to communicate complex technical findings effectively to stakeholders through presentations, reports, and visualizations.\n- Maintain documentation for all models, processes, and experiments, following best practices in version control and reproducibility.Error: list index out of range",
+        "sources": [
+          "capgemini_JD.txt"
+        ],
+        "not_found": false,
+        "ts": "2026-05-07T01:51:31.608469"
+      },
+      {
+        "role": "user",
+        "content": "can you tell me more about key responsibilities?",
+        "sources": [],
+        "not_found": false,
+        "ts": "2026-05-07T01:54:18.091998"
+      },
+      {
+        "role": "assistant",
+        "content": "## Key Responsibilities for Data Scientist – Generative AI & NLP Specialist\n\n- **Develop and implement AI models** focused on **NLP tasks** such as:\n  - Text classification\n  - Entity recognition\n  - Sentiment analysis\n  - Language generation\n\n- **Leverage deep knowledge of Large Language Models (LLMs)** to:\n  - Design, fine-tune, and deploy high-impact solutions across various business domains.\n\n- **Collaborate with cross-functional teams** (data engineers, product managers, domain experts) to:\n  - Define problem statements\n  - Build robust data pipelines\n  - Integrate models into production systems\n\n- **Stay current with advancements** in **Generative AI and NLP**:\n  - Research and evaluate new methodologies to drive innovation and maintain a competitive edge.\n\n- **Build, test, and optimize AI agents** for:\n  - Automated tasks\n  - Enhanced user experiences where applicable\n\n- **Ensure the integrity and quality of data** throughout the model development lifecycle, including:\n  - Data preprocessing\n  - Feature engineering\n  - Model validation\n\n- **Communicate complex technical findings** effectively to stakeholders through:\n  - Presentations\n  - Reports\n  - Visualizations\n\n- **Maintain documentation** for all models, processes, and experiments, following best practices in:\n  - Version control\n  - ReproducibilityError: list index out of range",
+        "sources": [
+          "capgemini_JD.txt"
+        ],
+        "not_found": false,
+        "ts": "2026-05-07T01:54:29.108422"
+      }
+    ]
+  }
+}
