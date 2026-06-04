@@ -40,7 +40,7 @@ class LLMHandler:
     
 	def __init__(self,
 				 api_key: Optional[str] = None,
-				 model: str = "gpt-4o-mini",
+				 model: str = "gpt-4.1",
 				 temperature: float = 0.1,
 				 max_tokens: int = 2048,
 				 top_p: float = 0.95):
